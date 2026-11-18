@@ -7,7 +7,7 @@ reflection/transmission amplitude coefficients. It handles any symmetry class.
 
 ## Browser version (recommended)
 
-**Use it online:** https://rezmal.github.io/ARTC/
+**Use it online:** https://roniksa.github.io/ARTC/
 
 **Or offline:** download [`ARTC.html`](ARTC.html) and open it in any modern browser. It is a
 single file that runs offline. No MATLAB and no installation are needed.
